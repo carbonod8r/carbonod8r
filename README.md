@@ -1,5 +1,5 @@
 ### Welcome
-Estudando **Cibersegurança**, com foco em **redes**, e aprendendo **Python**.
+Em constante expansão
 ---
 ### 🛠️ Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=python,linux)](https://skillicons.dev)
