@@ -1,5 +1,5 @@
 ### Welcome
-Given 8 hours to cut down a tree, I would spend 6 of them sharpening the axe.                                            <img src="assets/introduction-to-cybersecurity.png " width="80"/>
+Given 8 hours to cut down a tree, I would spend 6 of them sharpening the axe.                  |                          <img src="assets/introduction-to-cybersecurity.png " width="100"/>
 
 ---
 
