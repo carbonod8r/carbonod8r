@@ -2,7 +2,11 @@
 Em constante expansão
 ---
 ### 🛠️ Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=python,linux)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,python,arduino,windows,vscode" />
+  </a>
+</p>
 
 ---
 ### 📜 Estudos
