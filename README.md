@@ -1,5 +1,6 @@
 ### Welcome
-Dado 8 horas para cortar uma árvore, eu passaria 6 delas afiando o machado
+Given 8 hours to cut down a tree, I would spend 6 of them sharpening the axe. 
+
 ---
 
 <p align="center">
