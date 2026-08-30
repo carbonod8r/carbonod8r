@@ -1,4 +1,4 @@
-### Olá 👋
+### Welcome
 
 Estudando **Cibersegurança**, com foco em **redes**, e aprendendo **Python**.
 
