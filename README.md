@@ -12,4 +12,4 @@ Estudando **Cibersegurança**, com foco em **redes**, e aprendendo **Python**.
 
 ### 📜 Certificações
 
-<img src="introduction-to-cybersecurity.png" width="150" alt="Cisco - Introdução à Cibersegurança"/>
+<img src="assets/introduction-to-cybersecurity.png" width="150" alt="Cisco - Introdução à Cibersegurança"/>
